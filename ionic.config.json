@@ -1,0 +1,8 @@
+{
+  "name": "mgg",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "39c35b24"
+}
