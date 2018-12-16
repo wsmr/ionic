@@ -1,0 +1,12 @@
+page-newpage {
+
+    .my-component {
+        background: color($colors, twitter, base);
+      }
+    .bg-image{
+        background-image: url('../assets/imgs/offline.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+    }
+}
